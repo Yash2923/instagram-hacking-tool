@@ -1,6 +1,7 @@
 #!/bin/bash
 # Instagram Hacking Tool is an upgrade from original ShellPhish Tool (https://github.com/thelinuxchoice/shellphish) by thelinuxchoice under GNU LICENSE 
-# Coded by: @thelinuxchoice (https://github.com/thelinuxchoice/blackeye)
+# Coded by: @_pbx1_gavi_
+(https://github.com/thelinuxchoice/blackeye)
 # Upgraded by: @swetabhsuman8 (https://github.com/swetabhsuman8)
 
 
